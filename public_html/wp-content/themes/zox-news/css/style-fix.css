@@ -1,0 +1,28 @@
+.mvp-nav-menu ul.menu li a {
+	font-size: 14px;
+}
+
+@media screen and (min-width: 1100px) {
+
+	.mvp-nav-menu ul.menu li a {
+		font-size: 16px;
+	}
+
+}
+
+
+@media screen and (min-width: 1148px) {
+
+	.mvp-nav-menu ul.menu li a {
+		font-size: 17px;
+	}
+
+}
+
+@media screen and (min-width: 1195px) {
+
+	.mvp-nav-menu ul.menu li a {
+		font-size: 18px;
+	}
+
+}

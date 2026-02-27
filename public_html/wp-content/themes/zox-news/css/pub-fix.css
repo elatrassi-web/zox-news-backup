@@ -1,0 +1,16 @@
+@media screen and (min-width: 992px) {
+
+	body.home .mvp-feat1-right-out {
+		display: flex;
+	}
+	body.home .mvp-feat1-right-in {
+		margin-right: unset;
+		flex: 1;
+	}
+
+	body.single .mvp-alp-side {
+		display: flex;
+		flex-direction: column;
+	}
+
+}
